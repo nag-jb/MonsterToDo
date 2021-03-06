@@ -15,6 +15,18 @@
 		1A76845325F3ABBF00C1D9F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A76845125F3ABBF00C1D9F3 /* LaunchScreen.storyboard */; };
 		1A76845E25F3ABBF00C1D9F3 /* MonsterToDoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A76845D25F3ABBF00C1D9F3 /* MonsterToDoTests.swift */; };
 		1A76846925F3ABBF00C1D9F3 /* MonsterToDoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A76846825F3ABBF00C1D9F3 /* MonsterToDoUITests.swift */; };
+		1A76848425F3AD6200C1D9F3 /* 005.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76847A25F3AD6200C1D9F3 /* 005.png */; };
+		1A76848525F3AD6200C1D9F3 /* heroMan.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76847B25F3AD6200C1D9F3 /* heroMan.png */; };
+		1A76848625F3AD6200C1D9F3 /* 005_b.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76847C25F3AD6200C1D9F3 /* 005_b.png */; };
+		1A76848725F3AD6200C1D9F3 /* slime.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76847D25F3AD6200C1D9F3 /* slime.png */; };
+		1A76848825F3AD6200C1D9F3 /* heroWoman.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76847E25F3AD6200C1D9F3 /* heroWoman.png */; };
+		1A76848925F3AD6200C1D9F3 /* sord.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76848025F3AD6200C1D9F3 /* sord.png */; };
+		1A76848A25F3AD6200C1D9F3 /* heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76848125F3AD6200C1D9F3 /* heart.png */; };
+		1A76848B25F3AD6200C1D9F3 /* quest_background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1A76848225F3AD6200C1D9F3 /* quest_background.jpg */; };
+		1A76848C25F3AD6200C1D9F3 /* monster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1A76848325F3AD6200C1D9F3 /* monster.jpg */; };
+		1A76849125F3B70200C1D9F3 /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A76849025F3B70200C1D9F3 /* RegistrationViewController.swift */; };
+		1A76849725F3B9CC00C1D9F3 /* ToDoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A76849525F3B9CC00C1D9F3 /* ToDoTableViewCell.swift */; };
+		1A76849825F3B9CC00C1D9F3 /* ToDoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A76849625F3B9CC00C1D9F3 /* ToDoTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,18 @@
 		1A76846425F3ABBF00C1D9F3 /* MonsterToDoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MonsterToDoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A76846825F3ABBF00C1D9F3 /* MonsterToDoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonsterToDoUITests.swift; sourceTree = "<group>"; };
 		1A76846A25F3ABBF00C1D9F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A76847A25F3AD6200C1D9F3 /* 005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 005.png; sourceTree = "<group>"; };
+		1A76847B25F3AD6200C1D9F3 /* heroMan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heroMan.png; sourceTree = "<group>"; };
+		1A76847C25F3AD6200C1D9F3 /* 005_b.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 005_b.png; sourceTree = "<group>"; };
+		1A76847D25F3AD6200C1D9F3 /* slime.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slime.png; sourceTree = "<group>"; };
+		1A76847F25F3AD6200C1D9F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/heroWoman.png; sourceTree = "<group>"; };
+		1A76848025F3AD6200C1D9F3 /* sord.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sord.png; sourceTree = "<group>"; };
+		1A76848125F3AD6200C1D9F3 /* heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heart.png; sourceTree = "<group>"; };
+		1A76848225F3AD6200C1D9F3 /* quest_background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = quest_background.jpg; sourceTree = "<group>"; };
+		1A76848325F3AD6200C1D9F3 /* monster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = monster.jpg; sourceTree = "<group>"; };
+		1A76849025F3B70200C1D9F3 /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
+		1A76849525F3B9CC00C1D9F3 /* ToDoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewCell.swift; sourceTree = "<group>"; };
+		1A76849625F3B9CC00C1D9F3 /* ToDoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ToDoTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +123,7 @@
 		1A76844525F3ABBE00C1D9F3 /* MonsterToDo */ = {
 			isa = PBXGroup;
 			children = (
+				1A76847925F3AD6200C1D9F3 /* image */,
 				1A76844625F3ABBE00C1D9F3 /* AppDelegate.swift */,
 				1A76844825F3ABBE00C1D9F3 /* SceneDelegate.swift */,
 				1A76844A25F3ABBE00C1D9F3 /* ViewController.swift */,
@@ -106,6 +131,9 @@
 				1A76844F25F3ABBF00C1D9F3 /* Assets.xcassets */,
 				1A76845125F3ABBF00C1D9F3 /* LaunchScreen.storyboard */,
 				1A76845425F3ABBF00C1D9F3 /* Info.plist */,
+				1A76849025F3B70200C1D9F3 /* RegistrationViewController.swift */,
+				1A76849525F3B9CC00C1D9F3 /* ToDoTableViewCell.swift */,
+				1A76849625F3B9CC00C1D9F3 /* ToDoTableViewCell.xib */,
 			);
 			path = MonsterToDo;
 			sourceTree = "<group>";
@@ -126,6 +154,22 @@
 				1A76846A25F3ABBF00C1D9F3 /* Info.plist */,
 			);
 			path = MonsterToDoUITests;
+			sourceTree = "<group>";
+		};
+		1A76847925F3AD6200C1D9F3 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				1A76847A25F3AD6200C1D9F3 /* 005.png */,
+				1A76847B25F3AD6200C1D9F3 /* heroMan.png */,
+				1A76847C25F3AD6200C1D9F3 /* 005_b.png */,
+				1A76847D25F3AD6200C1D9F3 /* slime.png */,
+				1A76847E25F3AD6200C1D9F3 /* heroWoman.png */,
+				1A76848025F3AD6200C1D9F3 /* sord.png */,
+				1A76848125F3AD6200C1D9F3 /* heart.png */,
+				1A76848225F3AD6200C1D9F3 /* quest_background.jpg */,
+				1A76848325F3AD6200C1D9F3 /* monster.jpg */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +275,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A76848825F3AD6200C1D9F3 /* heroWoman.png in Resources */,
+				1A76848625F3AD6200C1D9F3 /* 005_b.png in Resources */,
+				1A76848C25F3AD6200C1D9F3 /* monster.jpg in Resources */,
+				1A76849825F3B9CC00C1D9F3 /* ToDoTableViewCell.xib in Resources */,
+				1A76848A25F3AD6200C1D9F3 /* heart.png in Resources */,
+				1A76848B25F3AD6200C1D9F3 /* quest_background.jpg in Resources */,
+				1A76848925F3AD6200C1D9F3 /* sord.png in Resources */,
 				1A76845325F3ABBF00C1D9F3 /* LaunchScreen.storyboard in Resources */,
 				1A76845025F3ABBF00C1D9F3 /* Assets.xcassets in Resources */,
 				1A76844E25F3ABBE00C1D9F3 /* Main.storyboard in Resources */,
+				1A76848425F3AD6200C1D9F3 /* 005.png in Resources */,
+				1A76848725F3AD6200C1D9F3 /* slime.png in Resources */,
+				1A76848525F3AD6200C1D9F3 /* heroMan.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,7 +314,9 @@
 			files = (
 				1A76844B25F3ABBE00C1D9F3 /* ViewController.swift in Sources */,
 				1A76844725F3ABBE00C1D9F3 /* AppDelegate.swift in Sources */,
+				1A76849125F3B70200C1D9F3 /* RegistrationViewController.swift in Sources */,
 				1A76844925F3ABBE00C1D9F3 /* SceneDelegate.swift in Sources */,
+				1A76849725F3B9CC00C1D9F3 /* ToDoTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +366,14 @@
 				1A76845225F3ABBF00C1D9F3 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		1A76847E25F3AD6200C1D9F3 /* heroWoman.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1A76847F25F3AD6200C1D9F3 /* Base */,
+			);
+			name = heroWoman.png;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
